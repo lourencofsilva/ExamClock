@@ -9,8 +9,8 @@ The feedback received for ExamClock has been overwhelmingly positive, as it has 
 
 ## Screenshots
 <p align="center">
-  <img src="https://lourencofsilva.github.io/demo/examclock/clock_main.png" />
+  <img src="https://www.lourencofsilva.com/demo/examclock/clock_main.png" />
 </p>
 &nbsp;
 
-![](https://lourencofsilva.github.io/demo/examclock/clock_2.png)
+![](https://www.lourencofsilva.com/demo/examclock/clock_2.png)
